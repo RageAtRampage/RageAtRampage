@@ -1,16 +1,161 @@
-## Hi there 👋
+> “The important thing is to never stop questioning. Even if the question is: *‘Why did I write this code six months ago?’*”  
+> — Matt Parker
 
-<!--
-**RageAtRampage/RageAtRampage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mihul Singh Solanki
 
-Here are some ideas to get you started:
+🚀 **Senior Java Microservices Developer** | ☕ Spring Boot Enthusiast | 🤖 Chatbot Builder  
+📍 Bangalore, Karnataka, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a backend engineer with **4+ years of experience** building scalable, reliable, and sometimes *surprisingly smart* systems. I enjoy turning complex business problems into clean microservices—and occasionally teaching machines how to talk back.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔧 Specialize in **Java Microservices** using **Spring Boot & Spring Cloud**
+- 🧠 Love working on **chatbots, automation, and distributed systems**
+- 👥 Experience leading teams and owning services end-to-end
+- 🎯 Always curious about new tech and system design patterns
+- 📚 Indoor person who enjoys books, music, and tech deep-dives
+
+---
+
+## 🏢 Work Experience
+
+### 💼 **Senior Software Developer — Kapture CRM**  
+📆 *June 2022 – Present | Bangalore*
+
+- 🔍 Built an **Elasticsearch-based search architecture** improving latency and accuracy
+- 💬 Developed an **ejabberd-based chat service** to speed up ticket creation
+- 🤖 Created a **chatbot system** used by brands like **Zepto** and **BigBasket**
+- ⏱️ Automated workflows using a **scheduler service**, reducing manual effort
+- 👨‍👩‍👧‍👦 Led a **team of 4 engineers** across multiple microservices
+
+---
+
+### 💼 **Software Developer — Kapture CRM**  
+📆 *May 2021 – June 2022 | Bangalore*
+
+- 🧩 Built a **common shared JAR** to support migration from monolith → microservices
+- 📧 Integrated **email-reading microservice**, reducing support requests by **20%**
+- 🌐 Developed ticket ingestion from **social media, email, APIs, and apps**
+
+---
+
+### 💼 **Software Engineer — SenSen Networks**  
+📆 *Aug 2020 – Apr 2021 | Hyderabad*
+
+- 🖥️ Worked on **Spring & JSP applications**
+- 🐞 Fixed bugs, improved platform performance
+- 🔁 Collaborated in **Agile/Scrum** with business & research teams
+
+---
+
+### 💼 **Software Engineering Intern — OpenText**  
+📆 *Jan 2020 – Aug 2020 | Bangalore*
+
+- 🔗 Built **REST & SOAP connectors**
+- 📜 Created **OpenAPI specifications**
+- ⚙️ Automated repetitive tasks to save engineering time
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Tech in Computer Science & Engineering**  
+  SRM Institute of Science and Technology (2016–2020)  
+  **80%**
+
+- 🏫 **12th Grade** — Oxford Junior College | **72%**
+- 🏫 **10th Grade** — Oxford Junior College | **74%**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java ☕
+- Python 🐍
+- C / C++  
+- PHP  
+
+### 🔧 Frameworks & Tools
+- Spring Boot, Spring Security, Spring Data JPA
+- Hibernate ORM
+- Apache Kafka, ActiveMQ
+- Redis, Elasticsearch
+- Ejabberd Server
+- REST APIs
+- Git & SVN
+
+### 🌐 Other Skills
+- Microservices Architecture
+- Cloud Computing
+- IoT Development
+- Web Development
+- Agile & Scrum
+
+---
+
+## 🚀 Projects (Highlights)
+
+- **🤖 Emotion-Driven Chatbot**  
+  NLP-based chatbot using hierarchical encoder-decoder architecture
+
+- **📊 IoT Hub**  
+  Server + dashboard for IoT data analysis (Spring + PostgreSQL)
+
+- **🧠 Genetic Algorithm Path Finder**  
+  Shortest path in unknown environments using GA
+
+- **🧺 IoT Washing Machine**  
+  ESP32-powered smart washing machine with mobile notifications
+
+- **🌾 IoT Farming Center**  
+  Sensor-driven farming analytics using Raspberry Pi & Arduino
+
+---
+
+## 📜 Publications
+
+📄 **Emotion Driven Chatbot Using Natural Language Generation Techniques**  
+*ICSES 2022*  
+DOI: `10.1109/ICSES55317.2022.9914235`
+
+> A chatbot that understands emotions, adapts responses, and learns over time—because conversations should feel human.
+
+---
+
+## 🏆 Certifications & Awards
+
+- 🎓 Machine Learning & AI — NPTEL
+- 🐧 **RHCSA** — Red Hat
+- 🌐 Internet of Things — HP
+- 💻 Web Development — Internshala
+- 🤖 Kaizen Robotics Program — IIT Madras (I & II)
+
+---
+
+## 🎧 Outside of Code
+
+- 📖 Reading books indoors
+- 🎵 Long walks with music
+- 🧠 Exploring emerging technologies
+- 🚶‍♂️ Walking with friends & family
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** mihulsolanki1998@gmail.com  
+- 📱 **Phone:** +91 83496 67318  
+
+---
+
+⭐ *If you like clean code, scalable systems, or chatbots with feelings — we’ll get along just fine.*
+
+
+
+
+
+
