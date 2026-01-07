@@ -65,7 +65,7 @@ I’m a backend engineer with **5+ years of experience** building scalable, reli
 ### 💻 Languages
 - Java ☕
 - Python 🐍
-- Rust
+- Rust 🦀
 
 ### 🔧 Frameworks & Tools
 - Spring Boot, Spring Security, Spring Data JPA
