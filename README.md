@@ -1,12 +1,12 @@
 > “The important thing is to never stop questioning. Even if the question is: *‘Why did I write this code six months ago?’*”  
-> — Matt Parker
+>                                                                                         — Matt Parker
 
 # 👋 Hi, I'm Mihul Singh Solanki
 
 🚀 **Senior Java Microservices Developer** | ☕ Spring Boot Enthusiast | 🤖 Chatbot Builder  
 📍 Bangalore, Karnataka, India  
 
-I’m a backend engineer with **4+ years of experience** building scalable, reliable, and sometimes *surprisingly smart* systems. I enjoy turning complex business problems into clean microservices—and occasionally teaching machines how to talk back.
+I’m a backend engineer with **5+ years of experience** building scalable, reliable, and sometimes *surprisingly smart* systems. I enjoy turning complex business problems into clean microservices—and occasionally teaching machines how to talk back.
 
 ---
 
@@ -60,60 +60,38 @@ I’m a backend engineer with **4+ years of experience** building scalable, reli
 
 ---
 
-## 🎓 Education
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  SRM Institute of Science and Technology (2016–2020)  
-  **80%**
-
-- 🏫 **12th Grade** — Oxford Junior College | **72%**
-- 🏫 **10th Grade** — Oxford Junior College | **74%**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 - Java ☕
 - Python 🐍
-- C / C++  
-- PHP  
+- Rust
 
 ### 🔧 Frameworks & Tools
 - Spring Boot, Spring Security, Spring Data JPA
 - Hibernate ORM
 - Apache Kafka, ActiveMQ
-- Redis, Elasticsearch
+- Redis
+- Elasticsearch
 - Ejabberd Server
 - REST APIs
 - Git & SVN
 
 ### 🌐 Other Skills
 - Microservices Architecture
+- CI/CD
 - Cloud Computing
 - IoT Development
 - Web Development
 - Agile & Scrum
-
+  
 ---
 
-## 🚀 Projects (Highlights)
+## 🎓 Education
 
-- **🤖 Emotion-Driven Chatbot**  
-  NLP-based chatbot using hierarchical encoder-decoder architecture
-
-- **📊 IoT Hub**  
-  Server + dashboard for IoT data analysis (Spring + PostgreSQL)
-
-- **🧠 Genetic Algorithm Path Finder**  
-  Shortest path in unknown environments using GA
-
-- **🧺 IoT Washing Machine**  
-  ESP32-powered smart washing machine with mobile notifications
-
-- **🌾 IoT Farming Center**  
-  Sensor-driven farming analytics using Raspberry Pi & Arduino
-
+- 🎓 **B.Tech in Computer Science & Engineering**  
+  SRM Institute of Science and Technology (2016–2020)
+  
 ---
 
 ## 📜 Publications
@@ -126,29 +104,12 @@ DOI: `10.1109/ICSES55317.2022.9914235`
 
 ---
 
-## 🏆 Certifications & Awards
-
-- 🎓 Machine Learning & AI — NPTEL
-- 🐧 **RHCSA** — Red Hat
-- 🌐 Internet of Things — HP
-- 💻 Web Development — Internshala
-- 🤖 Kaizen Robotics Program — IIT Madras (I & II)
-
----
-
 ## 🎧 Outside of Code
 
 - 📖 Reading books indoors
 - 🎵 Long walks with music
 - 🧠 Exploring emerging technologies
 - 🚶‍♂️ Walking with friends & family
-
----
-
-## 📫 Let’s Connect
-
-- 📧 **Email:** mihulsolanki1998@gmail.com  
-- 📱 **Phone:** +91 83496 67318  
 
 ---
 
